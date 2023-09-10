@@ -153,7 +153,7 @@ MySQL
 
  # YouTube video link:- 
 
- [![project_Demo]](https://www.youtube.com/watch?v=QXr4udrkafU&list=RDGMEMPipJmhsMq3GHGrfqf4WIqA&index=27&ab_channel=AnnapurnaStudios)
+ [![project_Demo](https://github.com/Neeraj-IIITS/Hugs_For_Bugs/blob/main/Screenshots/logo.png)](https://www.youtube.com/watch?v=QXr4udrkafU&list=RDGMEMPipJmhsMq3GHGrfqf4WIqA&index=27&ab_channel=AnnapurnaStudios)
 
 
 -----------------------------------------
