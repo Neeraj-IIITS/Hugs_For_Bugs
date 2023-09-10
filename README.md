@@ -151,12 +151,10 @@ MySQL
 ----------------------------------------
 ## Demo
 
-```bash
-
  # YouTube video link:- 
 
+ [![project_Demo]](https://www.youtube.com/watch?v=QXr4udrkafU&list=RDGMEMPipJmhsMq3GHGrfqf4WIqA&index=27&ab_channel=AnnapurnaStudios)
 
-```
 
 -----------------------------------------
 ## Credits and Social Media 
